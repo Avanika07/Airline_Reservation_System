@@ -6,10 +6,10 @@ The Airline Reservation System is a Java-based application developed using Core 
 This project demonstrates the practical implementation of Object-Oriented Programming (OOP), collections, exception handling, file handling, and other Core Java concepts.
 
 **Objectives**
--To automate the basic airline reservation process.
--To provide an easy way to search and view available flights.
--To allow passengers to book and cancel flight tickets.
--To maintain passenger and booking information.
+-To automate the basic airline reservation process.<br>
+-To provide an easy way to search and view available flights.<br>
+-To allow passengers to book and cancel flight tickets.<br>
+-To maintain passenger and booking information.<br>
 -To demonstrate Core Java and OOP concepts through a real-world application.
 
 **Key Features**
