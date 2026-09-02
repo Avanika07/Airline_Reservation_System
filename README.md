@@ -36,29 +36,6 @@ Interfaces
 Collections
 Exception Handling
 
-**Application Flow**
-Start
-  ↓
-Main Menu
-  ↓
-Login / User Selection
-  ↓
-Search Available Flights
-  ↓
-Select Flight
-  ↓
-Enter Passenger Details
-  ↓
-Check Seat Availability
-  ↓
-Confirm Booking
-  ↓
-Generate Booking Details
-  ↓
-View / Cancel Booking
-  ↓
-Exit
-
 **Future Enhancements**
 Add a graphical user interface using Java Swing or JavaFX.
 Add MySQL database connectivity using JDBC.
