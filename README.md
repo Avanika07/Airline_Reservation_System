@@ -13,34 +13,34 @@ This project demonstrates the practical implementation of Object-Oriented Progra
 -To demonstrate Core Java and OOP concepts through a real-world application.
 
 **Key Features**
-Flight search and availability
-Passenger details management
-Ticket booking and cancellation
-Seat availability management
-Booking details
-Menu-driven interface
+Flight search and availability<br>
+Passenger details management<br>
+Ticket booking and cancellation<br>
+Seat availability management<br>
+Booking details<br>
+Menu-driven interface<br>
 Exception handling
 
 **Technologies Used**
-**Programming Language:** Java
-**Concepts:** Core Java, OOP, Collections, Exception Handling, File Handling
-**Development Environment:** Eclipse 
+**Programming Language:** Java<br>
+**Concepts:** Core Java, OOP, Collections, Exception Handling, File Handling<br>
+**Development Environment:** Eclipse <br>
 **Version Control:** Git & GitHub
 
 **Core Java Concepts**
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
-Interfaces
-Collections
+Encapsulation<br>
+Inheritance<br>
+Polymorphism<br>
+Abstraction<br>
+Interfaces<br>
+Collections<br>
 Exception Handling
 
 **Future Enhancements**
-Add a graphical user interface using Java Swing or JavaFX.
-Add MySQL database connectivity using JDBC.
-Implement online payment integration.
-Add user and admin authentication.
-Add email/SMS booking confirmation.
-Add advanced flight search and filtering.
+Add a graphical user interface using Java Swing or JavaFX.<br>
+Add MySQL database connectivity using JDBC.<br>
+Implement online payment integration.<br>
+Add user and admin authentication.<br>
+Add email/SMS booking confirmation.<br>
+Add advanced flight search and filtering.<br>
 Generate downloadable e-tickets.
