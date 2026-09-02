@@ -45,3 +45,15 @@ This project demonstrates the practical implementation of Object-Oriented Progra
 - Add email/SMS booking confirmation.<br>
 - Add advanced flight search and filtering.<br>
 - Generate downloadable e-tickets.
+
+**Learning Outcomes**
+
+Through this project, I gained practical knowledge of:
+- Core Java programming
+- Object-Oriented Programming
+- Collections Framework
+- Exception Handling
+- File Handling
+- Interfaces and Abstraction
+- Modular application development
+- Git and GitHub project management
